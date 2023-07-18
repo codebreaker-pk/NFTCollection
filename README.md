@@ -63,6 +63,6 @@ NFTCollection is a repository that showcases a curated collection of Non-Fungibl
 - GitHub: [github.com/codebreaker-pk](https://github.com/codebreaker-pk)
 - Email: official.pk.900@gmail.com
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/codebreaker-pk/NFTCollection/blob/main/LICENSE).
 
 
